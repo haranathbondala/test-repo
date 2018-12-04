@@ -1,8 +1,12 @@
 welcome to the devops class
-
+naveen
 Welcome the day
 welcoewnvjvsdnvsvsvsvss
 hi
 ui
+<<<<<<< HEAD
 some chnages from local reposiroty
 
+=======
+chnages for today
+>>>>>>> 4b792aebfb23ae5e73752d5604a9e6321f106b86
